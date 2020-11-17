@@ -10,5 +10,5 @@ begin
     read(c);
     x := b * c;
     writeln('NUMBER = ', a);
-    writeln('SALARY = U$ ',x:-1:2);
+    writeln('SALARY = U$ ', x:-1:2);
 end.
