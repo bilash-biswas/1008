@@ -9,6 +9,6 @@ int main()
     cin>>b;
     cin>>c;
     cout<<"NUMBER = "<<a<<endl;
-    cout<<"SALARY = U$ "<<fixed<<setprecision(2)<<(b*c)<<endl;
+    cout<<"SALARY = U$ "<<fixed<<setprecision(2)<<(b * c)<<endl;
     return 0;
 }
