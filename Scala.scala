@@ -5,6 +5,6 @@ object Main {
     var c = scala.io.StdIn.readDouble()
 
     println("NUMBER = " + a)
-    println("SALARY = U$ %.2f".format(b*c))
+    println("SALARY = U$ %.2f".format(b * c))
   }
 }
